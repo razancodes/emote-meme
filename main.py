@@ -71,7 +71,7 @@ GESTURE_MEME_MAP = {
 }
 
 # Delay before switching memes (in seconds)
-GESTURE_SWITCH_DELAY = 0.10
+GESTURE_SWITCH_DELAY = 0.15
 
 
 class MemePlayer:
