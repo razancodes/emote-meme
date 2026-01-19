@@ -1,13 +1,14 @@
-# AI Multi-Gesture Detector with Meme Display
+# AI Meme Emote Detector
 
 Real-time gesture detection using MediaPipe with parallel meme display.
+
+# Demo:![IMG_0909 (1)](https://github.com/user-attachments/assets/016b0a84-6fc3-4b99-8523-998320e2bf44)
 
 ## Features
 
 - **12 Gesture Detection**: Smirk, Wink, Speed, Patrick, Thinking, Shush, Giggle, Cut It Out, Shock, LeBron Scream, Shaq T, Surprise
 - **Split-Screen Display**:  Webcam feed (left) + corresponding meme (right)
 - **GIF Support**: Animated memes loop automatically
-- **1.5s Switch Delay**: Prevents rapid meme switching
 
 ## Requirements
 
